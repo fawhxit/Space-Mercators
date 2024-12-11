@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfxWarp3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":160,
+  "compression":2,
+  "conversionMode":0,
+  "duration":7.992,
+  "name":"sfxWarp3",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"sfxWarp3.mp3",
+  "type":1,
+  "volume":1.0,
+}

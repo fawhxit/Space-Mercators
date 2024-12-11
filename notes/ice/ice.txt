@@ -1,0 +1,12 @@
+Land1 255
+Land2 224
+Land3 192
+
+Ice1 160
+Ice2 144
+Ice3 128
+
+Cloud1 112
+Cloud2 96
+Cloud3 80
+Cloud4 64

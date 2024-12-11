@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"galaxy",
+  "name":"galaxy",
+  "parent":{
+    "name":"Galaxies",
+    "path":"folders/Sprites/Space/Galaxies.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

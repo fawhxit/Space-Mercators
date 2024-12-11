@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"terran",
+  "name":"terran",
+  "parent":{
+    "name":"Terran",
+    "path":"folders/Sprites/Space/Planets/Terran.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

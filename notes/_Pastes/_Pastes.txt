@@ -1,0 +1,22 @@
+#region T/O Loop
+	
+	// Loop Good to Go
+	var go = f
+	
+	// Init Loop Timeout
+	var to = 10
+	var toi = 0
+	
+	// Do Loop
+	do {
+		
+		// Do Stuff Here
+		// Iterate Timeout
+		toi += 1
+								
+	} until(CONDITION_HERE or toi > to)
+	
+	// Success?
+	if(toi <= to) go = t
+	
+#endregion

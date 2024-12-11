@@ -1,0 +1,5 @@
+light1: 255
+light2: 224
+engine: 192
+light3: 160
+letter: 128

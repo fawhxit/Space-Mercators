@@ -1,0 +1,10 @@
+Land1 128
+Land2 112
+Land3 96
+
+Crater1 64
+Crater2 32
+
+Lava1 255
+Lava2 224
+Lava3 192

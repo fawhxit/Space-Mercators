@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"asteroid",
+  "name":"asteroid",
+  "parent":{
+    "name":"Asteroids",
+    "path":"folders/Sprites/Space/Asteroids.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+Ocean1 255
+Ocean2 224
+Ocean3 192
+
+Land1 160
+Land2 152
+Land3 144
+Land4 136
+
+Cloud1 112
+Cloud2 96
+Cloud3 88
+Cloud4 80

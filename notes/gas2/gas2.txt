@@ -1,0 +1,9 @@
+Body1 255
+Body2 224
+Body3 192
+Body4 160
+
+Cloud1 128
+Cloud2 112
+Cloud3 96
+Cloud4 80

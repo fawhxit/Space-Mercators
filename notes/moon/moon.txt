@@ -1,0 +1,6 @@
+Body1 255
+Body2 224
+Body3 192
+
+Crater1 96
+Crater2 64

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"ring",
+  "name":"ring",
+  "parent":{
+    "name":"Ring",
+    "path":"folders/Sprites/Space/Planets/Ring.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

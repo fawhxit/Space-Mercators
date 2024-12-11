@@ -1,0 +1,14 @@
+/*
+ *	Land1 255
+ *	Land2 248
+ *	Land3 240
+ *	Land4 232
+ *
+ *	Ocean1 96
+ *	Ocean2 64
+ *
+ *	Cloud1 160
+ *	Cloud2 152
+ *	Cloud3 144
+ *	Cloud4 136
+ */

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"lava",
+  "name":"lava",
+  "parent":{
+    "name":"Lava",
+    "path":"folders/Sprites/Space/Planets/Lava.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

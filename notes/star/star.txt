@@ -1,0 +1,10 @@
+Blob1 255
+
+Boil1 224
+Boil2 192
+
+Surf1 160
+Surf2 128
+
+Flare1 96
+Flare2 64

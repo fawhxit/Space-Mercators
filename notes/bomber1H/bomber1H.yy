@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"bomber1H",
+  "name":"bomber1H",
+  "parent":{
+    "name":"Bomber",
+    "path":"folders/Sprites/Ship/Human/Winged/Bomber.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

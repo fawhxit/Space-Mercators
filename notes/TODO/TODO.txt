@@ -1,0 +1,51 @@
+TODO 7/30/23: Radar Sweep Visuals Done, Do Radar Flashes for NPCs/Radar Targets
+
+PRIORITY: Landing/Warping Animations Player & NPCs
+TODO: Transmissions & Logs
+TODO: Ship Mouse Flight
+BUG: Freeze w/ debug?
+
+- NPCs & AI
+	- Default AI (No Target, No Scheduled)
+		- Faction
+		- Environment
+	- NPC Fleets & Patrols
+	- NPC Tasks/Schedules
+	- NPC Factions & Outlaws & Neutrals
+		- NPC v NPC Combat
+	- Galactic Movement
+
+- Ships
+	- Classes
+		- Small (Scale <5)
+			- Probe (1H)
+			- Recon
+			- Fighter
+			- Bomber
+			- Shuttle
+			- Freighter (1H)
+		- Medium
+			- Service
+			- Frigate
+			- Destroyer
+		- Big (Scale 75)
+			- Trade
+			- Battle
+			- Carrier (1H)
+		- Huge (Scale 100+)
+			- War
+			- Capital
+
+- Player Combat	
+	- Player Projectile Collisions
+	- NPC -> Player Attack/Defend
+
+- Space Stations
+	- Orbit
+	- Non-Orbit
+
+- Asteroid Field
+
+- Economy
+	- Planet Markets
+	- Player & NPC Inventories

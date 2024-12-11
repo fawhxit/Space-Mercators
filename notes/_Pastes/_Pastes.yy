@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"_Pastes",
+  "name":"_Pastes",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

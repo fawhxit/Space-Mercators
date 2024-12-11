@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TOE_SCRIPTS",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TOE_SCRIPTS",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

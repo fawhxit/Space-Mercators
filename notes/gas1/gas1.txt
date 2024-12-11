@@ -1,0 +1,7 @@
+Light1 255
+Light2 224
+Light3 192
+
+Dark1 96
+Dark2 64
+Dark3 32
